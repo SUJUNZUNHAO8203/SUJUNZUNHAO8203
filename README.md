@@ -9,8 +9,8 @@
 8個月學成-12/31
 
 盡快從一開始從軟體工程師方式來學
-Android studio 程式的PR
-GitHub 不要錢的程式庫
+- Android studio 程式的PR
+- GitHub 不要錢的程式庫
 上面很多程式下載還可以放上去
 Chat got-最簡便的AI各種東西都可以幫我做
 <!---
