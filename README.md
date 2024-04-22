@@ -12,7 +12,7 @@
 - Android studio 程式的PR
 - GitHub 不要錢的程式庫
 上面很多程式下載還可以放上去
-Chat got-最簡便的AI各種東西都可以幫我做
+- Chat got最簡便的AI各種東西都可以幫我做
 <!---
 SUJUNZUNHAO8203/SUJUNZUNHAO8203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
